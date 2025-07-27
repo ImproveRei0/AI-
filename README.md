@@ -4,7 +4,7 @@
 [![Greasy Fork](https://img.shields.io/greasyfork/v/YOUR_SCRIPT_ID?label=Greasy%20Fork&logo=tampermonkey)](https://greasyfork.org/zh-CN/scripts/YOUR_SCRIPT_ID) <!-- 请将 YOUR_SCRIPT_ID 替换为你的脚本在 Greasy Fork 上的 ID -->
 
 一个懂你心思、会吐槽、能监督你学习的 AI 看板娘油猴脚本。它不仅能感知你正在浏览的内容并给出俏皮评论，还能在你“摸鱼”太久时，用 AI 生成的警句将你拉回正轨。
-!-- 如果您打算提供英文版，可以保留此链接 -->
+
 
 ---
 
